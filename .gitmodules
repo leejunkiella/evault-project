@@ -1,6 +1,6 @@
 [submodule "common-utils"]
 	path = common-utils
-	url = https://github.com/mhisoft/common-utils.git
+	url = https://github.com/leative/common-utils.git
 [submodule "wallet"]
 	path = wallet
-	url = https://github.com/mhisoft/eVault.git
+	url = https://github.com/leative/eVault.git
